@@ -23,6 +23,7 @@
 | [Mi portafolio](https://github.com/danielamag98/Portafolio-web-dma.git) | Mi portafolio donde encontraras todo sobre mi | HTML, CSS, Bootstrap, JavaScript |
 | [Proyecto Integrador CH73](https://github.com/danielamag98/[NOMBRE-DEL-REPO]) | Proyecto integrado e-commers, CoffeeMod | HTML, CSS, Bootstrap, JavaScript |
 | [Hackathon: tienda de running](https://github.com/EdGodinez/kilometro.cero) | Landing page interactiva de una tienda de running | HTML, CSS, Bootstrap, JavaScript |
+| [Hackathon Java](https://github.com/RedMoon73uwu/Hackaton2-CALSD) | Lógica y arquitectura del sistema backend | Java |
 
 ## 📚 Aprendiendo ahora
 
